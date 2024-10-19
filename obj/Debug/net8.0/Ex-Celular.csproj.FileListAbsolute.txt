@@ -1,0 +1,15 @@
+C:\Users\ivan\Desktop\Projetos GitHub\DOTNET\Ex-Celular\bin\Debug\net8.0\Ex-Celular.exe
+C:\Users\ivan\Desktop\Projetos GitHub\DOTNET\Ex-Celular\bin\Debug\net8.0\Ex-Celular.deps.json
+C:\Users\ivan\Desktop\Projetos GitHub\DOTNET\Ex-Celular\bin\Debug\net8.0\Ex-Celular.runtimeconfig.json
+C:\Users\ivan\Desktop\Projetos GitHub\DOTNET\Ex-Celular\bin\Debug\net8.0\Ex-Celular.dll
+C:\Users\ivan\Desktop\Projetos GitHub\DOTNET\Ex-Celular\bin\Debug\net8.0\Ex-Celular.pdb
+C:\Users\ivan\Desktop\Projetos GitHub\DOTNET\Ex-Celular\obj\Debug\net8.0\Ex-Celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan\Desktop\Projetos GitHub\DOTNET\Ex-Celular\obj\Debug\net8.0\Ex-Celular.AssemblyInfoInputs.cache
+C:\Users\ivan\Desktop\Projetos GitHub\DOTNET\Ex-Celular\obj\Debug\net8.0\Ex-Celular.AssemblyInfo.cs
+C:\Users\ivan\Desktop\Projetos GitHub\DOTNET\Ex-Celular\obj\Debug\net8.0\Ex-Celular.csproj.CoreCompileInputs.cache
+C:\Users\ivan\Desktop\Projetos GitHub\DOTNET\Ex-Celular\obj\Debug\net8.0\Ex-Celular.sourcelink.json
+C:\Users\ivan\Desktop\Projetos GitHub\DOTNET\Ex-Celular\obj\Debug\net8.0\Ex-Celular.dll
+C:\Users\ivan\Desktop\Projetos GitHub\DOTNET\Ex-Celular\obj\Debug\net8.0\refint\Ex-Celular.dll
+C:\Users\ivan\Desktop\Projetos GitHub\DOTNET\Ex-Celular\obj\Debug\net8.0\Ex-Celular.pdb
+C:\Users\ivan\Desktop\Projetos GitHub\DOTNET\Ex-Celular\obj\Debug\net8.0\Ex-Celular.genruntimeconfig.cache
+C:\Users\ivan\Desktop\Projetos GitHub\DOTNET\Ex-Celular\obj\Debug\net8.0\ref\Ex-Celular.dll
